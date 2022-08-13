@@ -15,9 +15,9 @@ math - https://docs.python.org/3/library/math.html <br />
 
 ## Instructions to run the Thought Experiment II:
 
--  Open a terminal in the current project folder
+-  Open 3 terminals in the current project folder
 -  Install all required dependencies with pip (if not yet done)
--  run python3 s4.py
--  run python3 s2.py
--  run python3 s3.py
+-  run python3 s4.py in the firt termianl
+-  run python3 s2.py in the second termianl
+-  run python3 s3.py in the third termianl
 -  The terminal of s3 outputs the deviations of observer predictions
